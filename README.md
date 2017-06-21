@@ -2,7 +2,7 @@
 
 Grupo: Rodrigo Lampier e Gustavo Grimaldi
 
-Esse pequeno sistema foi desenvolvido como nota parcial para a disciplina de Comércio Eletrônico. O sistema apresenta um menu onde podemos:
+Esse pequeno sistema foi desenvolvido como nota parcial para a disciplina de Comércio Eletrônico. 
 
 A documentação completa se encontra em:
 
